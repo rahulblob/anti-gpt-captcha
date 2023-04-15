@@ -8,3 +8,9 @@ There are various types of CAPTCHAs, including image-based CAPTCHAs where users 
 CAPTCHAs are useful in safeguarding online systems and protecting user privacy by preventing automated bots from exploiting vulnerabilities or abusing online resources. They help ensure that actions performed on websites and applications are carried out by human users, reducing the risk of fraud, spam, and other malicious activities. However, CAPTCHAs can also be a source of inconvenience for users with visual impairments or cognitive disabilities, and efforts are being made to develop more accessible alternatives.
 
 *BASICALLY AFTER READING THE ARTICLE ABOUT "CHATGPT FOOL HUMAN" TO COMPLETE CAPTCHA I DECIDED TO CODE MY OWN CAPTCHA*
+
+# Usage
+add this script above `</body>` thats it!
+```
+<script src='https://cdn.jsdelivr.net/gh/rahulblob/anti-gpt-captcha/script/script.js'></script>
+```
