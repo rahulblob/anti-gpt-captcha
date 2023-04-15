@@ -12,5 +12,5 @@ CAPTCHAs are useful in safeguarding online systems and protecting user privacy b
 # Usage
 add this script above `</body>` thats it!
 ```
-<script src='https://cdn.jsdelivr.net/gh/rahulblob/anti-gpt-captcha/script/script.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/rahulblob/anti-gpt-captcha/script/scripts.js'></script>
 ```
